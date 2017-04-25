@@ -1,0 +1,24 @@
+{
+  "people": [
+    {
+      "id": 0,
+      "name": "Javril"
+    },
+    {
+      "id": 1,
+      "name": "Siafa"
+    },
+    {
+      "id": 2,
+      "name": "Koma"
+    },
+    {
+      "id": 3,
+      "name": "Gauvet"
+    },
+    {
+      "id": 4,
+      "name": "Kona"
+    }
+  ]
+}
